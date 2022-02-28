@@ -1,4 +1,4 @@
-# 👋  Hi there, I'm Johan 
+# 👋  Hi there, I'm Johan
 
 ![johan-le-lan](https://media-exp1.licdn.com/dms/image/C4D03AQE3G_NJCc8p0w/profile-displayphoto-shrink_200_200/0/1570644209036?e=1646265600&v=beta&t=EspLA-dNnp4s6EgBOEJILQN-MLUQxObyz_mKXDyTVXE)
 
@@ -23,7 +23,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt=".NET Core" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/512px-.NET_Core_Logo.svg.png" />
-<img align="left" alt="VueJS" width="26px" src="https://vuejs.org/images/logo.svg" />
+<img align="left" alt="VuesJS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" />
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Java" width="16px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/322px-Java_Logo.svg.png" />
