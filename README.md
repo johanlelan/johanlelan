@@ -2,12 +2,12 @@
 
 ![johan-le-lan](https://media-exp1.licdn.com/dms/image/C4D03AQE3G_NJCc8p0w/profile-displayphoto-shrink_200_200/0/1570644209036?e=1646265600&v=beta&t=EspLA-dNnp4s6EgBOEJILQN-MLUQxObyz_mKXDyTVXE)
 
-## I'm a Husband, Father, Manager, Architect and Teacher
+## I'm a Husband, Father, Manager, Architect, Teacher and CTO
 
 - 👀 I’m interested in microservices architectures, fraud detection and AI at scale
 - 🌱 I’m currently learning everything 🤣 (Joking) Event-storming, Lean SD, Apache Pulsar and Tensor FLow
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn and try more techs again
+- 🥅 2024 Goals: Learn new AI perspectives
 - ⚡ Fun fact: I love my family, to ride my bicycle with friends and to draw with my sons
 
 ### 📫 How to reach me
@@ -26,6 +26,7 @@
 <img align="left" alt="VuesJS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" />
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Java" width="16px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/322px-Java_Logo.svg.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
